@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction
+# ❤️‍🩹 Heart Disease Prediction
 
 ## Description
 Ce projet utilise des algorithmes de Machine Learning pour prédire la présence de maladies cardiaques chez des patients en fonction de leurs caractéristiques médicales et personnelles.  
