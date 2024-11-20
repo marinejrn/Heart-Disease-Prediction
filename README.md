@@ -45,8 +45,8 @@ Voici les étapes principales du projet :
 
 
 ## 🏆 Résultats
-- **Modèle le plus performant** : Random Forest Classifier.
-- **Précision moyenne** : 88%.
+- **Modèle le plus performant** : Logistic Regression.
+- **Précision moyenne** : 82%.
 - **Insights clés** :
   - La fréquence cardiaque maximale (`thalach`) est fortement corrélée avec la maladie.
   - Le cholestérol n'est pas toujours un facteur décisif selon les analyses.
